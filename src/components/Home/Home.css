@@ -1,0 +1,26 @@
+.common-button {
+    background-color: rgba(105, 79, 232, 0.8);
+    color: white;
+    font-weight: 700;
+    padding: 5px 25px;
+    border: 1px solid;
+    margin-bottom: 75px;
+}
+
+.common-button:hover {
+    background-color: white;
+    color: black;
+    font-weight: 700;
+    padding: 5px 25px;
+    border: 1px solid rgba(105, 79, 232, 0.8);
+}
+
+.component-shadow {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.custom-title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
